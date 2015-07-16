@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP1</string>
+
+    <string name="bonjour">Bonjour à tous !</string>
+    <string name="hello">Hello World !</string>
+    <string name="action_logout">Sortir</string>
+    <string name="btn_fr">FR</string>
+    <string name="btn_en">EN</string>
+</resources>
